@@ -38,4 +38,5 @@ The core of this system is a Convolutional Neural Network (CNN) trained on thous
 - **IoT Integration**: Connecting with smart-farm sensors to trigger alerts when environmental conditions favor disease growth (e.g., high humidity).
 
 ---
+*This dataset was used to train the model: https://www.kaggle.com/datasets/arjuntejaswi/plant-village *
 *Developed with TensorFlow, NumPy, and Streamlit.*
